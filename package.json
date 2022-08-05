@@ -1,0 +1,23 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "homepage": "https://github.com/katyajuliet/katya-juliet-lerner.git",
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "jquery": "^3.6.0",
+    "react": "^16.4.0",
+    "react-dom": "^16.2.0",
+    "react-ga": "^2.7.0",
+    "react-scripts": "1.0.17",
+    "uninstall": "^0.0.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
