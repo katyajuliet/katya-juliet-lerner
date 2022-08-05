@@ -1,7 +1,7 @@
 {
   "name": "personal-portfolio",
   "version": "1.0.0",
-  "homepage": "https://github.com/katyajuliet/katya-juliet-lerner.git",
+  "homepage": "https://katyajuliet/github.io/katya-juliet-lerner",
   "private": false,
   "dependencies": {
     "gh-pages": "^4.0.0",
