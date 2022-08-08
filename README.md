@@ -1,8 +1,6 @@
-# My React App
+# My React portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+Portfolio Challenge for module 20 UCB Bootcamp 
 
 In the project directory, you can run:
 
