@@ -14,7 +14,8 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Screenshot
-[Image]()
+[Image-1](https://raw.githubusercontent.com/katyajuliet/katya-juliet-lerner/main/public/images/home-screenshot.png)
+[Image-2](https://raw.githubusercontent.com/katyajuliet/katya-juliet-lerner/main/public/images/About-screenshot.png)
 
 #### Contact
 
