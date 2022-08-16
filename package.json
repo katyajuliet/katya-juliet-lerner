@@ -1,10 +1,9 @@
 {
   "name": "personal-portfolio",
   "version": "1.0.0",
-  "homepage": "https://katyajuliet/github.io/katya-juliet-lerner",
+  "homepage": "https://katyajuliet.github.io/katya-juliet-lerner",
   "private": false,
   "dependencies": {
-    "gh-pages": "^4.0.0",
     "jquery": "^3.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -18,5 +17,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "i": "^0.3.7"
   }
 }

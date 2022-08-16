@@ -14,6 +14,8 @@ class Contact extends Component {
       var message = this.props.data.contactmessage;
     }
 
+    
+
     return (
       <section id="contact">
 
