@@ -2,9 +2,9 @@
   "main": {
     "name": "Katya Juliet",
     "occupation": "Full-Stack Developer & Designer",
-    "description": "I am a leader in communication, digital technology, & project management",
+    "description": "I am a leader in communication, digital technology & project management.",
     "image": "profilepic.jpg",
-    "bio": "I am a creative, strategic, down-to-earth visionary & natural-born leader with a positive outlook, great attention to detail & high integrity. I believe that Communication is the key to success and can make or break any brand or project. My creative background gives me an edge in the marketplace as industries are realizing how critical authenticity, engagement, and world-class customer experience truly is. If you can connect with people in a genuine way, and engage through storytelling, curated voices, &  relationships in the right format and moment in time, you will form bonds & loyalty with consumers that transcend beyond facts and figures.",
+    "bio": "I am a certified full-stack developer from UC Berkeley and designer with years of experience in technical project management and consulting. I graduated with honors from UC Davis with a B.A in Communication, focusing on digital media, negotiation, confirmation bias & consumer behaviors. I am curious, honest, efficient, creative and extremely motivated. I believe that communication, authenticity & world-class customer experience is key for success. I am also wildly interested in Augmented Reality, App development and love helping others bring their ideas to life!",
     "contactmessage": "I would love to learn more about you and partner together for exceptional results!",
     "email": "katyajuliet22@gmail.com",
     "phone": "8313456786",
@@ -62,16 +62,10 @@
     ],
     "work": [
       {
-        "company": "sayeYO",
-        "title": "Wireframe, UX, Design, Project Management",
-        "years": "June 2021 - Present",
-        "description": "Connect, Communicate, and Collaborate with sayeYO! sayeYO is a full-featured communication app with secure text and multi-media messaging including full-length songs and automatic language translation, voice and video calling, WiFi calling, promo video maker, music storage, audio compression, web, social, and music link storage, plus much more."
-      },
-      {
-        "company": "Buzzword Consulting",
+        "company": "Freelancer",
         "title": "Full-Stack Developer & Designer",
         "years": "October 2015 - Current",
-        "description": "Buzzword Consulting provides small business consulting, startup and communication consulting as well as tech services including website and mobile app development, graphic design, video and podcast production, marketing, project management and more. Clients range across a variety of industries. PM Leadership of a team of developers and designers."
+        "description": "Programming, website and mobile app development, graphic design, video and podcast editing, marketing, technical project management and more. Clients range across a variety of industries. PM Leadership of a team of developers and designers."
       }
     ],
     "skills": [
