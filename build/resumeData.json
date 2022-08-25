@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name": "Katya Juliet",
+    "occupation": "Full-Stack Developer & Designer",
+    "description": "I am a leader in communication, digital technology & project management.",
+    "image": "profilepic.jpg",
+    "bio": "I am a certified full-stack developer from UC Berkeley and designer with years of experience in technical project management and consulting. I graduated with honors from UC Davis with a B.A in Communication, focusing on digital media, negotiation, confirmation bias & consumer behaviors. I am curious, honest, efficient, creative and extremely motivated. I believe that communication, authenticity & world-class customer experience is key for success. I am also wildly interested in Augmented Reality, App development and love helping others bring their ideas to life!",
+    "contactmessage": "I would love to learn more about you and partner together for exceptional results!",
+    "email": "katyajuliet22@gmail.com",
+    "phone": "8313456786",
+    "address": {
+      "street": "3625 Braxton CMN",
+      "city": "Fremont",
+      "state": "CA",
+      "zip": "94538"
+    },
+    "website": "http://www.buzzwordapps.com",
+    "resumedownload": "https://drive.google.com/file/d/1U3SZqt3USbY6xHrIhejREAE91VUp3qZ0/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://facebook.com/katyajuliet",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/buzz_wordc",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/katyajlerner/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/buzzwordconsulting/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/katyajuliet",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "MERN Developer • Front / Back end Dev • HTML • CSS • Javascript • Jquery • Bootstrap • NodeJS • JEST  • REACT • Wireframing • Graphic Design • Video & Audio Production • Small Business Consulting • Team & Communication leadership",
+    "education": [
+      {
+        "school": "UC Berkeley",
+        "degree": "Full-Stack Development Certificate",
+        "graduated": "August 2022",
+        "description": "6-month intensive bootcamp with UC Berkeley for Full-Stack Development hybrid course."
+      },
+      {
+        "school": "UC Davis",
+        "degree": "Communication & Media",
+        "graduated": "June 2015",
+        "description": "Graduated with honors from UC Davis with a B.A in Communication, with focus on digital media & consumer behaviors."
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Full-Stack Developer & Designer",
+        "years": "October 2015 - Current",
+        "description": "Programming, website and mobile app development, graphic design, video and podcast editing, marketing, technical project management and more. Clients range across a variety of industries. PM Leadership of a team of developers and designers."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "MERN",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "VueJs",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "React Portfolio",
+        "category": "A React based resume website template",
+        "image": "react-portfolio.png",
+        "url": ""
+      },
+      {
+        "title": "Travel Story",
+        "category": "Share your Travel Stories & review or comment on adventures",
+        "image": "travel-story.png",
+        "url": "https://adventure-reviews.herokuapp.com/"
+      },
+      {
+        "title": "The Sphere",
+        "category": "Get answers to your burning questions, affirmations, Magic Mark's and lucky numbers!",
+        "image": "the-sphere.png",
+        "url": "https://sorcerers-sphere.herokuapp.com/"
+      },
+      {
+        "title": "sayeYO",
+        "category": "(Landing page) The most useful communication app for music artists & music businesses.",
+        "image": "sayeyo.png",
+        "url": "https://www.sayeyo.com"
+      }
+    ]
+  },
+  "portfolio2": {
+    "projects2": [
+      {
+        "title": "Bands & Brewskis",
+        "category": "Restful API for finding bands and breweries by location and artist name.",
+        "image": "screenshot-home.png",
+        "url": "https://katyajuliet.github.io/projectfun/"
+      },
+      {
+        "title": "Password Generator",
+        "category": "A website that allows you to create unique tough-to-break passwords with a few clicks!",
+        "image": "password-gen.png",
+        "url": "https://katyajuliet.github.io/Password-Generator/"
+      },
+      {
+        "title": "Workday Scheduler",
+        "category": "Keep track of your tasks easily with this color-coded workday scheduler.",
+        "image": "home.png",
+        "url": "https://katyajuliet.github.io/work-day-scheduler/"
+      },
+      {
+        "title": "Weather Dashboard API",
+        "category": "Check the weather online using this weather api for a 3-5 day forecast.",
+        "image": "Screen1.png",
+        "url": "https://katyajuliet.github.io/Weather-Dashboard/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Remarkable, professional, and a delight to work and consult with. Making the decision to hire Katya Lerner was the right call for our Book Cover designs, websites, marketing and more!",
+        "user": "Myron J. Clifton, Author & Publisher"
+      },
+      {
+        "text": "Thanks for your commitment Katya… we hope you know how valued you are. I think you are brilliant and am in awe of your time management skills alone. Wish I had them.",
+        "user": "Christine Merser, Creator, Blue Shoe Content"
+      }
+    ]
+  }
+}
